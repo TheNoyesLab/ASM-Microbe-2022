@@ -1,0 +1,153 @@
+SRR4425711_raw_10ksubset.kraken.filtered.report,SRR4425665_raw_10ksubset.kraken.filtered.report,SRR4425718_raw_10ksubset.kraken.filtered.report,SRR4425713_raw_10ksubset.kraken.filtered.report,SRR4425663_raw_10ksubset.kraken.filtered.report,SRR4425710_raw_10ksubset.kraken.filtered.report,SRR4425715_raw_10ksubset.kraken.filtered.report,SRR4425719_raw_10ksubset.kraken.filtered.report,SRR4425712_raw_10ksubset.kraken.filtered.report,SRR4425662_raw_10ksubset.kraken.filtered.report,SRR4425666_raw_10ksubset.kraken.filtered.report,SRR4425664_raw_10ksubset.kraken.filtered.report,SRR4425714_raw_10ksubset.kraken.filtered.report,SRR4425660_raw_10ksubset.kraken.filtered.report,SRR4425659_raw_10ksubset.kraken.filtered.report,SRR4425661_raw_10ksubset.kraken.filtered.report
+"Bacteria",24.0,8.0,17.0,20.0,19.0,17.0,18.0,7.0,26.0,32.0,44.0,29.0,31.0,31.0,60.0,53.0
+"Bacteria|NA|Proteobacteria",4.0,3.0,0.0,0.0,6.0,3.0,6.0,0.0,1.0,8.0,12.0,18.0,1.0,1.0,7.0,7.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Enterobacterales",3.0,0.0,0.0,0.0,0.0,4.0,10.0,0.0,2.0,4.0,3.0,4.0,4.0,1.0,5.0,5.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae",105.0,4.0,6.0,10.0,6.0,68.0,73.0,6.0,5.0,58.0,15.0,9.0,58.0,41.0,98.0,113.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Escherichia",3.0,0.0,0.0,0.0,0.0,9.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,4.0,3.0,4.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Escherichia|Escherichia coli",62.0,0.0,8.0,8.0,2.0,39.0,29.0,6.0,4.0,29.0,2.0,4.0,30.0,36.0,32.0,85.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Escherichia|Escherichia fergusonii",2.0,0.0,0.0,0.0,0.0,12.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Escherichia|Escherichia albertii",1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,1.0,0.0,2.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Klebsiella|Klebsiella pneumoniae",7.0,3.0,2.0,1.0,5.0,3.0,3.0,1.0,0.0,0.0,7.0,11.0,6.0,3.0,4.0,8.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Salmonella|Salmonella enterica",1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Shigella",1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Firmicutes",1.0,6.0,11.0,18.0,7.0,1.0,1.0,6.0,16.0,19.0,19.0,19.0,4.0,34.0,40.0,49.0
+"Bacteria|NA|Firmicutes|Bacilli",5.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,4.0,1.0,0.0,0.0
+"Bacteria|NA|Firmicutes|Bacilli|Lactobacillales",5.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,2.0,1.0,0.0,3.0,3.0,11.0,7.0
+"Bacteria|NA|Firmicutes|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus",11.0,0.0,0.0,0.0,0.0,3.0,7.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,1.0,0.0
+"Bacteria|NA|Firmicutes|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|Lactobacillus salivarius",13.0,0.0,0.0,0.0,0.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0
+"Bacteria|NA|Firmicutes|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|Lactobacillus reuteri",4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,1.0,3.0
+"Bacteria|NA|Firmicutes|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|Lactobacillus johnsonii",2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0,3.0
+"Bacteria|NA|Firmicutes|Bacilli|Lactobacillales|Enterococcaceae|Enterococcus|Enterococcus faecium",1.0,1.0,0.0,0.0,1.0,6.0,0.0,0.0,0.0,6.0,4.0,4.0,4.0,4.0,22.0,34.0
+"Bacteria|NA|Firmicutes|Bacilli|Lactobacillales|Enterococcaceae|Enterococcus|Enterococcus cecorum",1.0,0.0,0.0,0.0,0.0,5.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0
+"Bacteria|NA|Firmicutes|Bacilli|Bacillales",2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+"Bacteria|NA|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus",3.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0
+"Bacteria|NA|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus saprophyticus",9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0
+"Bacteria|NA|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus hyicus",2.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,4.0,0.0,0.0,1.0
+"Bacteria|NA|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus carnosus",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus aureus",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus cohnii",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+"Bacteria|NA|Firmicutes|Bacilli|Bacillales|Bacillaceae|Bacillus",4.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,7.0,0.0,0.0,2.0,12.0,25.0,23.0
+"Bacteria|NA|Firmicutes|Bacilli|Bacillales|Bacillaceae|Bacillus|Bacillus cereus",1.0,0.0,4.0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Actinobacteria|Actinobacteria",14.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,14.0,0.0,1.0,0.0
+"Bacteria|NA|Actinobacteria|Actinobacteria|Micrococcales|Micrococcaceae|Micrococcus|Micrococcus luteus",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+"Bacteria|NA|Actinobacteria|Actinobacteria|Corynebacteriales|Corynebacteriaceae|Corynebacterium|Corynebacterium ammoniagenes",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Actinobacteria|Actinobacteria|Actinomycetales|Actinomycetaceae|Trueperella|Trueperella pyogenes",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Chlamydiae|Chlamydiia|Parachlamydiales|Parachlamydiaceae|Parachlamydia|Parachlamydia acanthamoebae",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria",0.0,4.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,12.0,8.0,0.0,3.0,1.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Enterobacter|Enterobacter sp. N18-03635",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas aeruginosa",0.0,1.0,0.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,6.0,6.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas oleovorans",0.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Aeromonadales|Aeromonadaceae|Aeromonas",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Betaproteobacteria|Burkholderiales|Comamonadaceae",0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Betaproteobacteria|Burkholderiales|NA|Thiomonas",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Alphaproteobacteria",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Firmicutes|Clostridia|Clostridiales",0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,2.0,3.0
+"Bacteria|NA|Firmicutes|Clostridia|Clostridiales|Ruminococcaceae|Faecalibacterium|Faecalibacterium prausnitzii",0.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,1.0,2.0,0.0,6.0,3.0,15.0
+"Bacteria|NA|Firmicutes|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|Lactobacillus amylovorus",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,1.0,0.0
+"Bacteria|NA|Firmicutes|Erysipelotrichia|Erysipelotrichales|Erysipelotrichaceae|Turicibacter|Turicibacter sp. H121",0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0
+"Bacteria|NA|Firmicutes|Erysipelotrichia|Erysipelotrichales|Erysipelotrichaceae|Intestinibaculum|Intestinibaculum porci",0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0
+"Bacteria|NA|Actinobacteria|Actinobacteria|Corynebacteriales|Corynebacteriaceae|Corynebacterium",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Enterobacterales|Erwiniaceae|Buchnera|Buchnera aphidicola",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Aeromonadales|Succinivibrionaceae|Succinivibrio|Succinivibrio dextrinosolvens",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Deltaproteobacteria|Desulfovibrionales|Desulfovibrionaceae|Lawsonia|Lawsonia intracellularis",0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Bacteroidetes",0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,4.0,2.0,0.0,0.0,0.0,2.0,16.0,2.0
+"Bacteria|NA|Bacteroidetes|Bacteroidia|Bacteroidales|Muribaculaceae|Muribaculum|Muribaculum sp. TLL-A4",0.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,3.0,0.0
+"Bacteria|NA|Bacteroidetes|Bacteroidia|Bacteroidales|Muribaculaceae|NA|Muribaculaceae bacterium DSM 108610",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Bacteroidetes|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Bacteroidetes|Flavobacteriia|Flavobacteriales|Flavobacteriaceae",0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus suis",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,8.0,1.0,0.0,0.0,5.0,30.0,38.0
+"Bacteria|NA|Firmicutes|Clostridia|Clostridiales|NA|NA|Clostridiales bacterium CCNA10",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Actinobacteria|Actinobacteria|Bifidobacteriales|Bifidobacteriaceae|Bifidobacterium|Bifidobacterium gallinarum",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Tenericutes|Mollicutes|Acholeplasmatales|Acholeplasmataceae|Acholeplasma|Acholeplasma axanthum",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Escherichia|Escherichia marmotae",0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,2.0,1.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Klebsiella",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Shigella|Shigella sonnei",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,3.0,0.0
+"Bacteria|NA|Bacteroidetes|Bacteroidia|Bacteroidales",0.0,0.0,0.0,3.0,0.0,1.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,1.0,10.0,6.0
+"Bacteria|NA|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Alloprevotella|Alloprevotella sp. E39",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Bacteroidetes|Flavobacteriia|Flavobacteriales|Flavobacteriaceae|Ornithobacterium|Ornithobacterium rhinotracheale",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Klebsiella|Klebsiella oxytoca",0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Enterobacter",0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Moraxellaceae|Acinetobacter",0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Betaproteobacteria|Burkholderiales|Comamonadaceae|Variovorax",0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Lactococcus|Lactococcus lactis",0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Enterobacter|Enterobacter cancerogenus",0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Enterobacter|Enterobacter hormaechei",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Salmonella",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Shigella|Shigella flexneri",0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,2.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Vibrionales|Vibrionaceae|Photobacterium|Photobacterium profundum",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Epsilonproteobacteria|Campylobacterales|Campylobacteraceae|Campylobacter",0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+"Bacteria|NA|Firmicutes|Bacilli|Lactobacillales|Lactobacillaceae",0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0
+"Bacteria|NA|Firmicutes|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|Lactobacillus crispatus",0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+"Bacteria|NA|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus",0.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0,0.0,6.0,1.0,1.0,1.0,1.0,1.0,5.0
+"Bacteria|NA|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus epidermidis",0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0
+"Bacteria|NA|Firmicutes|Clostridia|Clostridiales|Lachnospiraceae",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Actinobacteria|Actinobacteria|Corynebacteriales|Corynebacteriaceae|Corynebacterium|Corynebacterium stationis",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+"Bacteria|NA|Bacteroidetes|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides dorei",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Bacteroidetes|Bacteroidia|Bacteroidales|Rikenellaceae|Alistipes|Alistipes sp. dk3624",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Bacteroidetes|Bacteroidia|Bacteroidales|Odoribacteraceae|Odoribacter|Odoribacter splanchnicus",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Pseudescherichia|Pseudescherichia vulneris",0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Pasteurellales|Pasteurellaceae|Gallibacterium|Gallibacterium anatis",0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Oceanospirillales|Halomonadaceae|Halomonas",0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Firmicutes|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|Lactobacillus vaginalis",0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae",0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Firmicutes|Bacilli|Lactobacillales|Enterococcaceae|Enterococcus",0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Firmicutes|Bacilli|Bacillales|Staphylococcaceae",0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus hominis",0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Firmicutes|Negativicutes|Selenomonadales|Selenomonadaceae|Megamonas|Megamonas funiformis",0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Actinobacteria|Coriobacteriia|Coriobacteriales|Atopobiaceae|Olsenella|Olsenella umbonata",0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Bacteroidetes|Flavobacteriia|Flavobacteriales|Flavobacteriaceae|Riemerella|Riemerella anatipestifer",0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Bacteroidetes|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides vulgatus",0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus acidominimus",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Firmicutes|Clostridia|Clostridiales|Clostridiaceae|Clostridium|Clostridium bornimense",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Firmicutes|Clostridia|Clostridiales|Clostridiaceae|Clostridium|Clostridium perfringens",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,0.0,1.0,0.0,4.0,4.0,2.0
+"Bacteria|NA|Actinobacteria|Actinobacteria|Corynebacteriales|Corynebacteriaceae|Corynebacterium|Corynebacterium maris",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Bacteroidetes|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides uniformis",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Shigella|Shigella dysenteriae",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Leclercia|Leclercia adecarboxylata",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Enterobacterales|Pectobacteriaceae|Sodalis|Sodalis praecaptivus",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Firmicutes|Clostridia|Clostridiales|Peptostreptococcaceae|Clostridioides|Clostridioides difficile",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Eukaryota|Metazoa|Chordata|Mammalia|Primates|Hominidae|Homo|Homo sapiens",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas alcaligenes",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Moraxellaceae|Acinetobacter|Acinetobacter schindleri",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Aeromonadales|Aeromonadaceae|Aeromonas|Aeromonas salmonicida",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Aeromonadales|Aeromonadaceae|Aeromonas|Aeromonas sp. ASNIH5",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Chromatiales|Ectothiorhodospiraceae|Ectothiorhodospira|Ectothiorhodospira sp. BSL-9",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Betaproteobacteria|Burkholderiales",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Betaproteobacteria|Burkholderiales|Alcaligenaceae|Pusillimonas|Pusillimonas sp. ye3",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Betaproteobacteria|Burkholderiales|Burkholderiaceae|Cupriavidus|Cupriavidus metallidurans",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Betaproteobacteria|Rhodocyclales|Zoogloeaceae|Thauera|Thauera humireducens",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Alphaproteobacteria|Sphingomonadales|Sphingomonadaceae|Sphingopyxis|Sphingopyxis macrogoltabida",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Firmicutes|Tissierellia|Tissierellales|Peptoniphilaceae|Murdochiella|Murdochiella vaginalis",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"Archaea|NA|Euryarchaeota|Methanomicrobia|Methanosarcinales|Methanotrichaceae|Methanothrix|Methanothrix soehngenii",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Citrobacter",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Aeromonadales|Aeromonadaceae|Aeromonas|Aeromonas sp. ASNIH1",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Aeromonadales|Aeromonadaceae|Aeromonas|Aeromonas media",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Betaproteobacteria|Burkholderiales|Comamonadaceae|Acidovorax|Acidovorax carolinensis",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Betaproteobacteria|Burkholderiales|Comamonadaceae|Acidovorax|Acidovorax sp. JS42",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Betaproteobacteria|Burkholderiales|Comamonadaceae|Comamonas|Comamonas sp. NLF-7-7",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Betaproteobacteria|Nitrosomonadales|Sterolibacteriaceae|Methyloversatilis|Methyloversatilis sp. RAC08",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Betaproteobacteria|Rhodocyclales|Zoogloeaceae|Thauera",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Alphaproteobacteria|Sphingomonadales|Sphingomonadaceae",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Deltaproteobacteria|Desulfuromonadales|Geobacteraceae|Geobacter|Geobacter sulfurreducens",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Bacteroidetes|Flavobacteriia|Flavobacteriales|Flavobacteriaceae|Flavobacterium|Flavobacterium sp. KI723T1",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Citrobacter|Citrobacter freundii",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Moraxellaceae|Acinetobacter|Acinetobacter baumannii",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+"Bacteria|NA|Firmicutes|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|Lactobacillus murinus",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+"Bacteria|NA|Firmicutes|Bacilli|Bacillales|Bacillaceae|Bacillus|Bacillus altitudinis",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+"Bacteria|NA|Actinobacteria|Actinobacteria|Corynebacteriales|Corynebacteriaceae|Corynebacterium|Corynebacterium glutamicum",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Klebsiella|Klebsiella aerogenes",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Raoultella",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Kosakonia|Kosakonia cowanii",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+"Bacteria|NA|Firmicutes|Bacilli|Lactobacillales|Enterococcaceae|Enterococcus|Enterococcus faecalis",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+"Bacteria|NA|Firmicutes|Bacilli|Lactobacillales|Carnobacteriaceae|Marinilactibacillus|Marinilactibacillus sp. 15R",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+"Archaea|NA|Euryarchaeota|Methanobacteria|Methanobacteriales|Methanobacteriaceae|Methanobrevibacter|Methanobrevibacter smithii",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Kluyvera|Kluyvera intermedia",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|Citrobacter|Citrobacter amalonaticus",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+"Bacteria|NA|Proteobacteria|Epsilonproteobacteria|Campylobacterales|Campylobacteraceae|Campylobacter|Campylobacter jejuni",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+"Bacteria|NA|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus gallolyticus",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+"Bacteria|NA|Firmicutes|Bacilli|Lactobacillales|Aerococcaceae|Aerococcus|Aerococcus viridans",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+"Bacteria|NA|Firmicutes|Negativicutes|Veillonellales|Veillonellaceae|Megasphaera|Megasphaera elsdenii",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+"Bacteria|NA|Actinobacteria",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+"Bacteria|NA|Bacteroidetes|Bacteroidia|Bacteroidales|Rikenellaceae|Alistipes|Alistipes megaguti",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+"Bacteria|NA|Proteobacteria|Gammaproteobacteria|Enterobacterales|Enterobacteriaceae|NA|Enterobacteriaceae bacterium strain FGI 57",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

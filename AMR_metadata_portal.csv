@@ -1,0 +1,17 @@
+Run,Sample ID,Matrix,Host ,Collection Date,Collector(s),Facility Type,Raw Paired Reads,High Quality Paired Reads,Nonhost Paired Reads
+SRR4425710_raw_10ksubset,AFe1,Feces / Litter,Chicken,5/22/15,"MW, CY",Broiler Farm,52774147,48089402,48073028
+SRR4425714_raw_10ksubset,AFe20,Feces / Litter,Chicken,5/22/15,"ED, PR",Broiler Farm,50853119,47721201,47688415
+SRR4425715_raw_10ksubset,AFe25,Feces / Litter,Chicken,5/22/15,"MW, CY",Broiler Farm,56029729,52070951,52021008
+SRR4425711_raw_10ksubset,AFe9,Feces / Litter,Chicken,5/22/15,"ED, PR",Broiler Farm,46644905,42653810,42641799
+SRR4425713_raw_10ksubset,BFe11,Fresh Feces,Cattle,6/23/15,"MW, ED",Feedlot,55103006,52398347,52378158
+SRR4425718_raw_10ksubset,BFe13,Fresh Feces,Cattle,6/23/15,"MW, ED",Feedlot,57645408,55179771,55084532
+SRR4425712_raw_10ksubset,BFe2,Fresh Feces,Cattle,6/23/15,"MW, ED",Feedlot,48723273,46556063,46504910
+SRR4425719_raw_10ksubset,BFe39,Fresh Feces,Cattle,6/23/15,"MW, ED",Feedlot,44122611,40293213,40228417
+SRR4425663_raw_10ksubset,HBHw1,Treated Waste,WWTP,6/24/15,"MW, ER",Human wastewater plant,55980454,53793926,53792965
+SRR4425664_raw_10ksubset,HBHw2,Treated Waste,WWTP,6/24/15,"MW, ER",Human wastewater plant,44037424,42158294,42157442
+SRR4425665_raw_10ksubset,HBHw3,Treated Waste,WWTP,6/24/15,"MW, ER",Human wastewater plant,27572607,24448725,24448241
+SRR4425666_raw_10ksubset,HBHw4,Treated Waste,WWTP,6/24/15,"MW, ER",Human wastewater plant,41860765,39866910,39866279
+SRR4425659_raw_10ksubset,PFe13,Fresh Feces,Pig,7/6/15,"MW, ED, PR",Hog Farm,30968128,29260207,29007457
+SRR4425660_raw_10ksubset,PFe16,Fresh Feces,Pig,7/6/15,"MW, ED, PR",Hog Farm,43358181,39882120,39196685
+SRR4425661_raw_10ksubset,PFe22,Fresh Feces,Pig,7/6/15,"MW, ED, PR",Hog Farm,55302270,51882541,51549792
+SRR4425662_raw_10ksubset,PFe37,Fresh Feces,Pig,7/6/15,"MW, ED, PR",Hog Farm,49384187,47148078,46407162
