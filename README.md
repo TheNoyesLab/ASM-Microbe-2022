@@ -14,12 +14,12 @@ One of the goals of the workshop is to help establish a "cohort" of people who a
 
 ## Table of Contents
 
-- [Workshop details](#Worshop-details)
-- [Training portal](#Training-portal)
-- [Bioinformatics](#Bioinformatics)
-- [Statistics](#Statistics)
-- [Resources](#Resources)
-- [Special thanks](#Special-thanks)
+- [Workshop details](##workshop-details)
+- [Training portal](##training-portal)
+- [Bioinformatics](##bioinformatics)
+- [Statistics](##statistics)
+- [Resources](##resources)
+- [Special thanks](##special-thanks)
 
 ## Workshop details
 
