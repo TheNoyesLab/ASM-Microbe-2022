@@ -251,6 +251,10 @@ Tutorials:<br>
 - [Phyloseq tutorial](https://vaulot.github.io/tutorials/Phyloseq_tutorial.html#content)
 - [GUide to STatistical Analysis in Microbial Ecology (GUSTA ME)!](https://mb3is.megx.net/gustame)
 
+Repositories:<br>
+- [resources directory](./resources)
+
+
 GitHub Repositories:<br>
 - [AMR++ v2](https://github.com/EnriqueDoster/amrplusplus_v2)
 - [AMR++](https://github.com/EnriqueDoster/bioinformatic-nextflow-pipelines)
