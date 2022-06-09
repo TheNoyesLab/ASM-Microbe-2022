@@ -189,7 +189,7 @@ $ pwd
 
 To change directories we will use the `cd` command and we will give it the `relative path` to your `Desktop` directory.
 ```bash
-$ cd Desktop/
+$ cd $HOME/Desktop/
 ```
 
 The `ls` command without any options or arguments will output the files and directories of where you are currently standing (i.e. your Desktop).
