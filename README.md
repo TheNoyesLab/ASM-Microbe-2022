@@ -187,7 +187,7 @@ The first command we will run is `pwd`, this stands for "print working directory
 $ pwd
 ```
 
-To change directories we will use the `cd` command and we will give it the `relative path` to your `Desktop` directory.
+To change directories we will use the `cd` command and we will give it again the `aboslute path` with the env variable `$HOME` to your `Desktop` directory.
 ```bash
 $ cd $HOME/Desktop/
 ```
